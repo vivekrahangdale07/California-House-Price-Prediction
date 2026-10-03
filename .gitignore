@@ -1,0 +1,6 @@
+model.pkl
+pipelen.pkl
+__pycache__/
+.venv/
+venv/
+.env
